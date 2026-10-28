@@ -19,8 +19,8 @@ Allow: /
 User-agent: *
 Disallow: /
 
-Sitemap: https://sodammassage.netlify.app/sitemap.xml
-Sitemap: https://sodammassage.netlify.app/sitemap-hub.xml
-Sitemap: https://sodammassage.netlify.app/sitemap-area.xml
-Sitemap: https://sodammassage.netlify.app/sitemap-topic.xml
-Sitemap: https://sodammassage.netlify.app/rss.xml
+Sitemap: https://sodammassage.pages.dev/sitemap.xml
+Sitemap: https://sodammassage.pages.dev/sitemap-hub.xml
+Sitemap: https://sodammassage.pages.dev/sitemap-area.xml
+Sitemap: https://sodammassage.pages.dev/sitemap-topic.xml
+Sitemap: https://sodammassage.pages.dev/rss.xml
