@@ -142,7 +142,7 @@ a:focus-visible,button:focus-visible,select:focus-visible{outline:2px solid #273
 .sf label{display:block;font-size:12px;font-weight:700;color:#fff;opacity:.92;margin-bottom:4px}
 .sf select{width:100%;height:46px;border-radius:11px;border:0;padding:0 11px;font-size:15px;
  background:#fff;color:#2A2630}
-.cn{height:46px;padding:0 22px;border-radius:11px;border:0;background:#8E5E1D;color:#1F1505;
+.cn{height:46px;padding:0 22px;border-radius:11px;border:0;background:#8E5E1D;color:#FFFFFF;
  font-weight:900;font-size:15px;cursor:pointer}
 .cn:disabled{opacity:.6;cursor:default}
 .wv{grid-column:1/-1;margin:2px 0 0;color:#fff;opacity:.9;font-size:12.5px}
@@ -175,7 +175,7 @@ a:focus-visible,button:focus-visible,select:focus-visible{outline:2px solid #273
    ★본색 띠 안 링크를 흰색으로 못 박는 규칙은 여러 뼈대에서 되풀이해 걸린 자리다 —
      **제 바탕을 가진 조각(알약·배지·단추)**이 그 안에 있으면 따로 빼 준다. */
 .zb,.ua a.zb{display:inline-flex;align-items:center;gap:7px;height:48px;padding:0 20px;
- border-radius:12px;background:#8E5E1D;color:#1F1505;font-weight:900;text-decoration:none;
+ border-radius:12px;background:#8E5E1D;color:#FFFFFF;font-weight:900;text-decoration:none;
  white-space:nowrap}
 .hd{position:absolute;right:-8px;bottom:-14px;width:150px;opacity:.22;pointer-events:none}
 
